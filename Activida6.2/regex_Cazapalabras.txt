@@ -1,0 +1,1 @@
+((?![a-z])regex)|(^[Rr]egex)|([Rr]egex)$|((?<=")[Rr]egex)|((?<=\[)[Rr]egex)|((?<=\()[Rr]egex)|\s([Rr]egex)\s|((?<=')[Rr]egex)|((?<=')[Rr]egex)|(?=[Rr]egez)\.|(?=[Rr]egex)\,
